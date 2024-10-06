@@ -1,7 +1,8 @@
 #include <iostream>
 
-int main() {
-    std::cout << "Hello World!";
-    return 0;
+using namespace std;
+int main ()
+{
+ cout << "111" << endl;
+ return 0;
 }
-
