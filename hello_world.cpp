@@ -3,6 +3,6 @@
 using namespace std;
 int main ()
 {
- cout << "Hello world Добавление новой строчки или типо того, и еще одно добавление, и еще однaф" << endl;
+ cout << "ghbdtn vbh" << endl;
  return 0;
 }
