@@ -4,7 +4,7 @@ using namespace std;
 int main ()
 {
 <<<<<<< HEAD
- cout << "Привет мир" << endl;
+ cout << "Прощай мир">> endl;
 =======
  cout << "111" << endl;
 >>>>>>> test6
